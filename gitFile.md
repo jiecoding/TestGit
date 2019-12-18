@@ -1,13 +1,8 @@
-## 脚本路径
+自己不经常用的git命令：
 
-Project.sh 放到主项目目录下
+1.git remote add origin https://github.com/name/name_cangku.git 把本地仓库与远程仓库连接起来。
 
-SubProjects.sh 放到子项目同级目录下
-
-执行 chmod +x shellScript_name.sh 获取执行权限
+2.
 
 
 
-到对应目录执行 ./SubProjects.sh 可一键更新所有子项目
-
-到对应目录执行 ./Project.sh 可一键更新主项目及其依赖子项目
