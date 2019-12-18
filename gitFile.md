@@ -14,7 +14,7 @@
 
 6.场景2：你修改了一个内容，并且已经git add到暂存区了。想撤销怎么办？回溯版本，git reset --hard + 版本号,再git checkout -- file,替换工作区的版本。
 
-7.
+7.master
 
 
 
