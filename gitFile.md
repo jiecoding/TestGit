@@ -20,3 +20,8 @@
 
 
 参考整理联系：http://www.cocoachina.com/articles/68616
+
+
+问题1： 如果我加到暂存区，但是没有commit，这个时候没有提交记录的id怎么撤销？
+
+
